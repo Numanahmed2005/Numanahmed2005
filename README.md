@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Numanahmed2005
+- 👋 Hi, I’m Numan Ahmed
 - 👀 I’m interested in coding so i am learning
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on people 
